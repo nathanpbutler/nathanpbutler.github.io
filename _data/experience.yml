@@ -1,0 +1,53 @@
+- title: "Content Services Operator"
+  company: "Seven Network"
+  location: "Melbourne, VIC"
+  period: "Aug 2019 – Present"
+  responsibilities:
+    - "Ingest footage, create proxies, and manage media assets for news, sports, and other broadcast content"
+    - "Build automation tools using PowerShell, FFmpeg, and AutoHotkey to streamline workflows"
+    - "Produce proxy and high-resolution files for content sales distribution"
+    - "Handle archival processes and manage storage requirements"
+    - "Manage caption and transcription workflows"
+
+- title: "Senior Ingest Operator"
+  company: "Seven Network"
+  location: "Melbourne, VIC"
+  period: "Dec 2018 – Aug 2019"
+  responsibilities:
+    - "Managed ingest operations during company transition to NPC Media NSW"
+    - "Coordinated with other departments during organizational changes"
+    - "Ingested content for on-air playback and archiving"
+
+- title: "Video Editor / Librarian"
+  company: "Seven Network"
+  location: "Brisbane, QLD / Melbourne, VIC"
+  period: "Apr 2016 – Dec 2018"
+  responsibilities:
+    - "Helped establish new archive department during transition from Melbourne to Brisbane"
+    - "Managed archive and retrieval systems for historic footage"
+
+- title: "Ingest Operator / Video Editor"
+  company: "Seven Network"
+  location: "Melbourne, VIC"
+  period: "Sep 2010 – Apr 2016"
+  responsibilities:
+    - "Ingested and performed quality control on news updates, commercials, and programs"
+    - "Compiled and assembled programs to broadcast standards"
+    - "Edited highlights packages and promotional content"
+
+- title: "News Exchange / Send Operator"
+  company: "Nine Network"
+  location: "Melbourne, VIC"
+  period: "Mar 2010 – Sep 2010"
+  responsibilities:
+    - "Transferred content between regional and national newsrooms"
+    - "Managed media exchanges for breaking news coverage"
+
+- title: "Videotape Transmission Operator"
+  company: "Nine Network"
+  location: "Melbourne, VIC"
+  period: "Mar 2007 – Mar 2010"
+  responsibilities:
+    - "Managed on-air playback of scheduled content"
+    - "Performed quality control during broadcast transmission"
+    - "Coordinated with presentation and master control for programming transitions"

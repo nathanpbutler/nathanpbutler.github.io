@@ -1,0 +1,28 @@
+# Site settings
+title: "Nathan Butler"
+subtitle: "Broadcast Operations & Media Technology Professional"
+description: "Media operations professional with nearly 20 years in television production and post-production. Specializing in post-production workflows, footage ingest, proxy creation, and building automation tools."
+url: "https://nathanpbutler.github.io"
+baseurl: ""
+
+# Personal info
+location: "Melbourne, VIC, Australia"
+github_username: nathanpbutler
+linkedin_username: nathanpbutler
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .github
+
+# SCSS settings
+sass:
+  style: compressed

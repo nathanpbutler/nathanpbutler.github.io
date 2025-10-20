@@ -1,0 +1,9 @@
+<h2 class="section-title">Skills</h2>
+<div class="skills-grid">
+  {% for skill in site.data.skills %}
+  <div class="skill-category">
+    <h3>{{ skill.category }}</h3>
+    <p>{{ skill.description }}</p>
+  </div>
+  {% endfor %}
+</div>

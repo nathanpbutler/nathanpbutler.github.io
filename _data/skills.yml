@@ -1,0 +1,14 @@
+- category: "Post-Production"
+  description: "Adobe Premiere Pro, Media Encoder, Proxy Creation, Media Management"
+
+- category: "Storage & Asset Management"
+  description: "Media Asset Management, Archive workflows"
+
+- category: "Content Types"
+  description: "News, Sports, Archive footage, Broadcast programming"
+
+- category: "Technical & Automation"
+  description: "FFmpeg, C#, .NET, PowerShell"
+
+- category: "Other"
+  description: "Technical troubleshooting, Process documentation"

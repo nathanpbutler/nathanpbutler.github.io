@@ -1,0 +1,26 @@
+<section class="hero">
+  <div class="container">
+    <div class="hero-grid fade-in">
+      <div class="profile-container">
+        <img
+          src="{{ '/assets/images/profile.jpg' | relative_url }}"
+          alt="{{ site.title }} - Professional Profile Photo"
+          class="profile-image"
+        />
+      </div>
+      <div class="hero-content">
+        <h1>{{ site.title }}</h1>
+        <p class="subtitle">{{ site.subtitle }}</p>
+        <p class="location">📍 {{ site.location }}</p>
+        <div class="social-links">
+          {% for link in site.data.social %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">
+            {{ link.icon }}
+            {{ link.name }}
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

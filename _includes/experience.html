@@ -1,0 +1,19 @@
+<h2 class="section-title">Experience</h2>
+<div class="experience-timeline">
+  {% for job in site.data.experience %}
+  <div class="experience-item">
+    <div class="experience-header">
+      <div class="experience-title">{{ job.title }}</div>
+      <div class="experience-company">{{ job.company }} — {{ job.location }}</div>
+      <div class="experience-date">{{ job.period }}</div>
+    </div>
+    <div class="experience-description">
+      <ul>
+        {% for responsibility in job.responsibilities %}
+        <li>{{ responsibility }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endfor %}
+</div>

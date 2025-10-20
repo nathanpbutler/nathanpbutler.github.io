@@ -1,0 +1,11 @@
+- name: "libopx"
+  url: "https://github.com/nathanpbutler/libopx"
+  description: "MXF and Teletext caption processing library"
+  language: "C#"
+  language_color: "#178600"
+
+- name: "mt.net"
+  url: "https://github.com/nathanpbutler/mt.net"
+  description: "A .NET port of the Go-based media thumbnailing tool mt"
+  language: "C#"
+  language_color: "#178600"
